@@ -1,0 +1,41 @@
+
+hotpot-additional.png
+size: 2048,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Score
+  rotate: false
+  xy: 1129, 206
+  size: 164, 43
+  orig: 164, 43
+  offset: 0, 0
+  index: -1
+combo1
+  rotate: false
+  xy: 2, 2
+  size: 210, 87
+  orig: 210, 87
+  offset: 0, 0
+  index: -1
+combo2
+  rotate: false
+  xy: 1518, 286
+  size: 278, 162
+  orig: 278, 162
+  offset: 0, 0
+  index: -1
+combo3
+  rotate: false
+  xy: 1129, 251
+  size: 387, 197
+  orig: 387, 197
+  offset: 0, 0
+  index: -1
+menu-bar
+  rotate: false
+  xy: 2, 91
+  size: 1125, 357
+  orig: 1125, 357
+  offset: 0, 0
+  index: -1

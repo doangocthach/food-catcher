@@ -1,0 +1,48 @@
+
+start_menu.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1nam-an-lau-mien-phi
+  rotate: false
+  xy: 2, 1216
+  size: 1124, 807
+  orig: 1124, 807
+  offset: 0, 0
+  index: -1
+button-play
+  rotate: false
+  xy: 2, 112
+  size: 284, 199
+  orig: 284, 199
+  offset: 0, 0
+  index: -1
+content
+  rotate: false
+  xy: 994, 2
+  size: 829, 340
+  orig: 829, 340
+  offset: 0, 0
+  index: -1
+hung_nguyen_lieu_de_ghi_diem
+  rotate: false
+  xy: 2, 313
+  size: 990, 901
+  orig: 990, 901
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 1128, 1266
+  size: 798, 757
+  orig: 798, 757
+  offset: 0, 0
+  index: -1
+ne_cac_nguyen_lieu_khong_co_trong_menu
+  rotate: false
+  xy: 994, 344
+  size: 1000, 870
+  orig: 1000, 870
+  offset: 0, 0
+  index: -1

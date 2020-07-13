@@ -1,0 +1,55 @@
+
+leaderBoard.png
+size: 2048,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+footer
+  rotate: false
+  xy: 2, 103
+  size: 1106, 388
+  orig: 1106, 388
+  offset: 0, 0
+  index: -1
+header
+  rotate: false
+  xy: 1110, 262
+  size: 536, 229
+  orig: 536, 229
+  offset: 0, 0
+  index: -1
+logo-2
+  rotate: false
+  xy: 1648, 140
+  size: 300, 351
+  orig: 300, 351
+  offset: 0, 0
+  index: -1
+no1
+  rotate: false
+  xy: 1950, 335
+  size: 95, 156
+  orig: 95, 156
+  offset: 0, 0
+  index: -1
+no2
+  rotate: false
+  xy: 1474, 129
+  size: 87, 131
+  orig: 87, 131
+  offset: 0, 0
+  index: -1
+thu-lai
+  rotate: false
+  xy: 1110, 111
+  size: 362, 149
+  orig: 362, 149
+  offset: 0, 0
+  index: -1
+your-score
+  rotate: false
+  xy: 2, 2
+  size: 527, 99
+  orig: 527, 99
+  offset: 0, 0
+  index: -1

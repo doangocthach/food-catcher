@@ -1,0 +1,41 @@
+
+food_catch.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+chopsticks
+  rotate: false
+  xy: 1129, 1219
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+menu-bar
+  rotate: false
+  xy: 2, 86
+  size: 1125, 309
+  orig: 1125, 309
+  offset: 0, 0
+  index: -1
+tray
+  rotate: false
+  xy: 2, 2
+  size: 264, 82
+  orig: 264, 82
+  offset: 0, 0
+  index: -1
+tray-shadow
+  rotate: false
+  xy: 1129, 1177
+  size: 227, 40
+  orig: 227, 40
+  offset: 0, 0
+  index: -1
+win
+  rotate: false
+  xy: 2, 397
+  size: 1125, 1334
+  orig: 1125, 1334
+  offset: 0, 0
+  index: -1

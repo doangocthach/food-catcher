@@ -1,0 +1,76 @@
+
+foodinhotpot.png
+size: 2048,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Tom
+  rotate: false
+  xy: 952, 41
+  size: 146, 85
+  orig: 146, 85
+  offset: 0, 0
+  index: -1
+bachtuoc
+  rotate: false
+  xy: 1252, 65
+  size: 149, 61
+  orig: 149, 61
+  offset: 0, 0
+  index: -1
+hot_pot
+  rotate: false
+  xy: 2, 22
+  size: 324, 104
+  orig: 324, 104
+  offset: 0, 0
+  index: -1
+kimchi
+  rotate: false
+  xy: 482, 49
+  size: 158, 77
+  orig: 158, 77
+  offset: 0, 0
+  index: -1
+nam
+  rotate: false
+  xy: 328, 40
+  size: 152, 86
+  orig: 152, 86
+  offset: 0, 0
+  index: -1
+ngao
+  rotate: false
+  xy: 801, 45
+  size: 149, 81
+  orig: 149, 81
+  offset: 0, 0
+  index: -1
+raucai
+  rotate: false
+  xy: 1100, 60
+  size: 150, 66
+  orig: 150, 66
+  offset: 0, 0
+  index: -1
+thitbo
+  rotate: false
+  xy: 642, 54
+  size: 157, 72
+  orig: 157, 72
+  offset: 0, 0
+  index: -1
+tim_den
+  rotate: false
+  xy: 1328, 2
+  size: 74, 61
+  orig: 74, 61
+  offset: 0, 0
+  index: -1
+tim_do
+  rotate: false
+  xy: 1252, 2
+  size: 74, 61
+  orig: 74, 61
+  offset: 0, 0
+  index: -1
